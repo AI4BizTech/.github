@@ -19,6 +19,7 @@ Despite these limitations, LLMs can still be helpful for math-related tasks in t
 - **Explaining Concepts**: LLMs can provide clear explanations of mathematical concepts, formulas, and methods.
 - **Generating Code**: LLMs can write code (e.g., in Python) to solve math problems using libraries like numpy, scipy, or sympy.
 - **Guiding Problem-Solving**: LLMs can suggest strategies or steps for solving problems, even if we can't always execute them perfectly.
+
 We will build an agentic workflow to solve advanced math problems, when such a problem is received:
 - A prompt is formulated to inquire an LLM through its API to generate the solution steps and Python code to solve the problems. The solution steps will become comments in the generated the Python code. Here leveraging LLM's strength is leveraged.
 - The generated Python code will call functions defined in math packages such as Scipy, Numpy, Sympy, etc. Note that the actual computation are delegated to the tools and therefore avoid LLM's shortcomings
