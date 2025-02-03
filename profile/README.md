@@ -13,3 +13,9 @@ LLMs can solve basic or at most intermediate level math directly, but struggle f
 - **Lack of True Understanding**: LLMs don't "understand" math in the way humans do. They don't have an internal representation of mathematical concepts or the ability to reason abstractly.
 - **Complexity of Advanced Math**: Advanced math problems often require deep, step-by-step reasoning, creative problem-solving, and the ability to manipulate abstract concepts. These tasks go beyond simple pattern matching.
 - **No Built-in Computation**: LLMs don't have built-in tools to perform calculations, solve equations, or evaluate integrals. They can only generate text that describes how to do these things, not actually do them.
+
+## AI4MathSci's Approach
+Despite these limitations, LLMs can still be helpful for math-related tasks in the following ways:
+- **Explaining Concepts**: LLMs can provide clear explanations of mathematical concepts, formulas, and methods.
+- **Generating Code**: LLMs can write code (e.g., in Python) to solve math problems using libraries like numpy, scipy, or sympy.
+- **Guiding Problem-Solving**: LLMs can suggest strategies or steps for solving problems, even if we can't always execute them perfectly.
