@@ -1,2 +1,2 @@
-## About AI4mathSci
-AI4MathSci is a development group working on solving advanced mathematical problems with workflow powered by LLM APIs.
+## AI4mathSci's Mission
+AI4MathSci is a development group focusing on advanced mathematical problems solving with agentic workflow powered by LLM APIs and mathematical tools. For the time being, we will only use the mathematical tools provided by Python math packages such as SciPy, NumPy, SymPy, etc. The potential use of commercial tools like Wolfram Alpha will be evaluated as the project progresses.
