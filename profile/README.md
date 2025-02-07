@@ -34,5 +34,6 @@ Given our focus on real-world applications, our efforts will primarily concentra
 - Differential Equations
 - Optimization
 - Numerical Analysis
+
 Our aim is to develop automation techniques that can handle these practical mathematical challenges effectively. While theoretical mathematics, such as theorem proving, is valuable, it will not be a primary focus of our project. Instead, we will prioritize creating solutions that can be directly implemented in industry and research settings, addressing tangible problems and enhancing decision-making processes.
 As the project progresses, we will refine our approach and provide more detailed insights into our methodologies and chosen sub-domains for testing.
