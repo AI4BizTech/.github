@@ -26,4 +26,13 @@ We will build an agentic workflow to solve advanced math problems, when such a p
 - The agentic workflow will execute the generated code and re-prompt if necessary to re-generate the code (for example, when bugs are found in the code), and iterate through to achieve a final solution or exhaust the maximum number of iterations
 
 ## Applications
-Automating advanced math problem solving will facilitate the effort of automating problem solving in domains such as business, engineering, etc. where advanced math are the underlying tools. We will choose some sub-domains to test the application of our work, more details to be filled in as the project progresses.    
+Automating advanced mathematical problem-solving serves as a cornerstone for streamlining complex problem-solving across various domains, including business and engineering. These fields heavily rely on sophisticated mathematical tools as their foundation. As our project evolves, we will strategically select specific sub-domains to evaluate the practical applications of our work.
+Given our focus on real-world applications, our efforts will primarily concentrate on applied and computational mathematics. This includes, but is not limited to:
+- Calculus
+- Linear Algebra
+- Probability and Statistics
+- Differential Equations
+- Optimization
+- Numerical Analysis
+Our aim is to develop automation techniques that can handle these practical mathematical challenges effectively. While theoretical mathematics, such as theorem proving, is valuable, it will not be a primary focus of our project. Instead, we will prioritize creating solutions that can be directly implemented in industry and research settings, addressing tangible problems and enhancing decision-making processes.
+As the project progresses, we will refine our approach and provide more detailed insights into our methodologies and chosen sub-domains for testing.
