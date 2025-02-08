@@ -21,9 +21,9 @@ Despite these limitations, LLMs can still be helpful for math-related tasks in t
 - **Guiding Problem-Solving**: LLMs can suggest strategies or steps for solving problems, even if we can't always execute them perfectly.
 
 We will build an agentic workflow to solve advanced math problems, when such a problem is received:
-- A prompt is formulated to inquire an LLM through its API to generate the solution steps and Python code to solve the problems. The solution steps will become comments in the generated the Python code. Here leveraging LLM's strength is leveraged.
+- A prompt is formulated to inquire an LLM through its API to generate the solution steps and Python code to solve the problems. The solution steps will become comments in the generated the Python code. Here LLM's strength is leveraged.
 - The generated Python code will call functions defined in math packages such as Scipy, Numpy, Sympy, etc. Note that the actual computation are delegated to the tools and therefore avoid LLM's shortcomings
-- The agentic workflow will execute the generated code and re-prompt if necessary to re-generate the code (for example, when bugs are found in the code), and iterate through to achieve a final solution or exhaust the maximum number of iterations
+- The agentic workflow will execute the generated code and re-prompt if necessary to re-generate the code (for example, when bugs are found in the code), and iterate through to achieve a final solution or exhaust the maximum number of iterations.
 
 ## Applications
 Automating advanced mathematical problem-solving serves as a cornerstone for streamlining complex problem-solving across various domains, including business and engineering. These fields heavily rely on sophisticated mathematical tools as their foundation. As our project evolves, we will refine our approach and provide more detailed insights into our methodologies and chosen sub-domains for testing.
@@ -39,4 +39,4 @@ Given our focus on real-world applications, our efforts will primarily concentra
 
 Our aim is to develop automation techniques that can handle these practical mathematical challenges effectively. While theoretical mathematics, such as theorem proving, is valuable, it will not be a primary focus of our project. Instead, we will prioritize creating solutions that can be directly implemented in industry and research settings, addressing tangible problems and enhancing decision-making processes.
 
-At present, we will not address topics such as geometry or other areas involving spatial relations, due to the limitations of Large Language Models (LLMs) in interpreting spatial concepts and the constraints of available mathematical tools for solving problems in these domains. We are confident that the mathematical areas covered should sufficiently address many engineering and business applications.
+For now, we'll exclude geometry and spatial topics due to the limitations of Large Language Models (LLMs) in interpreting spatial concepts and the constraints of available mathematical tools for solving problems in these domains. Furthermore, at the first phase, we'll focus on problems presented in plain text and math formulas or LaTeX format and exclude problems with graphs/plots due to the complexity for LLMs to interpret graphs/plots under mathematical context. Despite these limitations, we believe the covered mathematical areas will still adequately serve many engineering and business applications.
