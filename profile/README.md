@@ -1,6 +1,9 @@
 ## AI4mathSci's Mission
 AI4MathSci is a development group focusing on advanced mathematical problems solving with agentic workflow powered by LLM APIs and mathematical tools. At the beginning, we will only use the mathematical tools provided by Python math packages such as SciPy, NumPy, SymPy, etc. The potential use of commercial tools like Wolfram Alpha will be evaluated as the project progresses.
 
+## Applications
+Automating advanced mathematical problem-solving serves as a cornerstone for streamlining complex problem-solving across various domains, including business and engineering. These fields heavily rely on sophisticated mathematical tools as their foundation. Our first application project is from the supply chain management area.
+
 ## LLMs Limitation on Math Problem Solving
 LLMs can solve basic or at most intermediate level math directly, but struggle for math problems beyond the level of high school. The reason is that LLMs rely on pattern matching rather than true reasoning to solve math problems.
 
@@ -38,7 +41,3 @@ Given our focus on real-world applications, our efforts will primarily concentra
 Our aim is to develop automation techniques that can handle these practical mathematical challenges effectively. While theoretical mathematics, such as theorem proving, is valuable, it will not be a primary focus of our project. Instead, we will prioritize creating solutions that can be directly implemented in industry and research settings, addressing tangible problems and enhancing decision-making processes.
 
 At the fist phase, we'll exclude geometry and spatial topics due to the limitations of Large Language Models (LLMs) in interpreting spatial concepts and the constraints of available mathematical tools (Python math packages) for solving problems in these domains. Furthermore, we'll focus on problems presented in plain text and math formulas or LaTeX format and exclude problems with graphs/plots due to the complexity for LLMs to interpret graphs/plots under mathematical context. Despite these limitations, we believe the covered mathematical areas will still adequately serve many engineering and business applications.
-
-
-## Applications
-Automating advanced mathematical problem-solving serves as a cornerstone for streamlining complex problem-solving across various domains, including business and engineering. These fields heavily rely on sophisticated mathematical tools as their foundation. Our first application project is from the supply chain management area.
