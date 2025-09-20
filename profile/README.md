@@ -1,4 +1,2 @@
-## AI4mathSci's Mission
-AI4MathSci is a development group focusing on advanced mathematical problems solving with agentic workflow powered by LLM APIs and mathematical tools. 
-
-Automating advanced mathematical problem-solving serves as a cornerstone for streamlining complex problem-solving across various business and engineering domains. These fields heavily rely on sophisticated mathematical tools as their foundation. Our first application is a project [Supply Chain Management](https://github.com/AI4MathSci/AI4SupplyChain/)
+## AIBizTech's Mission
+ai4biztech is a collaborative GitHub organization dedicated to advancing AI-driven solutions for business challenges. Hosting projects like Ai4Quant and Ai4SupplyChain, we leverage quantitative analysis and cutting-edge AI technology to innovate and optimize business processes across finance, supply chain, and more.
